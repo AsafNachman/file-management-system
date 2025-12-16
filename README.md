@@ -1,5 +1,3 @@
-<img width="1898" height="152" alt="image" src="https://github.com/user-attachments/assets/ccd8b3e6-d55d-4a4e-8660-afe7f15b03df" />
-
 # 📂 File Management System
 
 A Full Stack application for secure file uploading, storage, and management. Built with **FastAPI (Python)** on the backend and **React (Vite)** on the frontend.
