@@ -66,5 +66,5 @@ Configured Google Cloud Monitoring to track system health.
 3.  Start React: `npm run dev`
 
 ### Deployment
-* **Backend:** Deployed via `gcloud run deploy` using the included Dockerfile.
+* **Backend:** Deployed via `gcloud run deploy file-backend --source . --platform managed --region us-central1 --allow-unauthenticated` using the included Dockerfile.
 * **Frontend:** Deployed via `firebase deploy`.
