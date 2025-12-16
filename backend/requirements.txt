@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+gunicorn
+firebase-admin
+python-jose[cryptography]
+python-multipart
+requests
+google-cloud-storage
+google-cloud-firestore
+pydantic
